@@ -1,0 +1,21 @@
+# macOS yardımcı dosyaları
+.DS_Store
+._*
+
+# Python geçici dosyaları
+__pycache__/
+*.py[cod]
+
+# Yerel Python ortamları
+.venv/
+venv/
+
+# Jupyter otomatik kontrol noktaları
+.ipynb_checkpoints/
+
+# İndirilen veriler ve geçici çalışma dosyaları
+/data/
+/tmp/
+
+# Yerel gizli ayarlar
+.env
