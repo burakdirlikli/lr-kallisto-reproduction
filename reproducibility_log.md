@@ -95,3 +95,6 @@
 - Documented the setup and synthetic long-read test commands in the README, including how to build the k=63 test index and check the result observed on 14 November (estimated abundance of 1 for test_tx).
 - Listed the 13 FASTQ accessions and four reference files in `notes/sources.md`. Added download instructions to the README and documented the successful partial access checks from `bs200` on 14 November.
 - Recorded the authors' Figure 1 commit and links to the workflow and environment files in `notes/sources.md`, clarified the tested kallisto version, and updated the README directory listing to link to `environment.yml`.
+
+### Deliverable 2 submission
+- Submitted Deliverable 2 via GRIPS on 15 November 2026. The `deliverable-2` tag identifies the submitted commit: [`cc0c0f4735578f69125aba701a74e7d30dbc0325`](https://github.com/burakdirlikli/lr-kallisto-reproduction/commit/cc0c0f4735578f69125aba701a74e7d30dbc0325).

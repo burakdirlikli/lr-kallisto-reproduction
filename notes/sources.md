@@ -19,6 +19,7 @@
 
 - Deliverable 2 instructions: "Computational Environment and Data Access" on the GRIPS course submission page.
 - Deadline: 15 November 2026 at 23:59. Submit the tagged repository URL and the full commit SHA corresponding to `deliverable-2`.
+- Submitted: 15 November 2026 via GRIPS
 
 ## Code sources listed in the paper
 

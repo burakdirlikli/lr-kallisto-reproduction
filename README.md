@@ -56,6 +56,8 @@ Submission PDF: assignments/deliverable-1/final/
 
 ## Deliverable 2
 
+Submitted via GRIPS on 15 November 2026. The `deliverable-2` tag points to the [submitted commit](https://github.com/burakdirlikli/lr-kallisto-reproduction/commit/cc0c0f4735578f69125aba701a74e7d30dbc0325).
+
 ### Data access
 
 The [source list](notes/sources.md) gives the 13 FASTQ file accessions for
